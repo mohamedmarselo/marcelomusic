@@ -1,0 +1,6 @@
+﻿token=NjA0NzM1ODU1NTk2NDA0NzQ2.XTySQA.KOFUR2tml_B_POVzrHqFB1PP2wQ
+owner=ا555081750712287272
+prefix= m
+game= mMarcelo
+stayinchannel=true
+songinstatus=true 
